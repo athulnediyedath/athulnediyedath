@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Athul, and I am an Computer Science Grauate with specialisation in Artificial Intelligence & Machine Learning interested in all things Python & Data Science!
+My name is Athul, and I am an Computer Science Graduate with specialisation in Artificial Intelligence & Machine Learning interested in all things Python & Data Science!
 
 - 🔭 I’m currently working on upskilling many tools required for analysing insights.
 - 🌱 I’m currently learning skills like visualization, Data Cleaning, SQL for better understanding the depth of a data and to learn useful insights from them.
