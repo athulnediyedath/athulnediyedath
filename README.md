@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Athul, and I am an Computer Science Grauate with specialisation in Artificial Intelligence & Machine Learning interested in all things Python & Data Science!
 
+- 🔭 I’m currently working on upskilling many tools required for analysing insights.
+- 🌱 I’m currently learning skills like visualization, Data Cleaning, SQL for better understanding the depth of a data and to learn useful insights from them.
 
 <!--
 **athulnediyedath/athulnediyedath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
