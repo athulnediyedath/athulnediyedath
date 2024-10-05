@@ -7,12 +7,16 @@
 
 - 🌱 I’m currently learning **Python, SQL, Tableau, MS-Excel**
 
+- 👨‍💻 All of my projects are available at [https://athul04.netlify.app/](https://athul04.netlify.app/)
+
 - 📫 How to reach me **athulnediyedath@gmail.com**
-- 👉 Visit to my website **https://athul04.netlify.app/**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HvlG4bSHzjCOT32C-SXRDnNn1-vlFPSO/view?usp=sharing](https://drive.google.com/file/d/1HvlG4bSHzjCOT32C-SXRDnNn1-vlFPSO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/athul-nediyedath-746a78211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/athul-nediyedath-746a78211" height="30" width="40" /></a>
+<a href="https://twitter.com/athuls2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athuls2025" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/athul-nediyedath-746a78211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/athul-nediyedath-746a78211" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
