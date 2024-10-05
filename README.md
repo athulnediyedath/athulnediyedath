@@ -28,6 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athulnediyedath&show_icons=true&locale=en" alt="athulnediyedath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athulnediyedath&" alt="athulnediyedath" /></p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 <!--
 **athulnediyedath/athulnediyedath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
