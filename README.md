@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, Tableau, MS-Excel**
 
-- 📫 How to reach me **athulnediyedath@gmail.com**
+- 📫 How to reach me **athulnediyedath@gmail.com**  **https://athul04.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
