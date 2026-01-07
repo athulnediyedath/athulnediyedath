@@ -4,9 +4,9 @@ Computer Science Graduate (AI & ML) | Data Analytics | iOS Development
 </h3>
 
 <p align="center">
-  <a href="https://athul04.netlify.app/" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/athul-nediyedath/" target="_blank">LinkedIn</a> •
-  <a href="mailto:athulnediyedath@gmail.com">Email</a>
+  <a href="https://athul04.netlify.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/athul-nediyedath/" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:athulnediyedath@gmail.com">✉️ Email</a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ Computer Science Graduate (AI & ML) | Data Analytics | iOS Development
 
 ### 🏨 Airbnb Data Analysis Dashboard
 - Visualized hotel availability & pricing trends
-- Interactive Tableau dashboards
+- Built interactive Tableau dashboards
 - **Tech:** Tableau, SQL, Data Visualization
 
 ### 🧠 Healthcare iOS Application (Research Project)
@@ -46,55 +46,50 @@ Computer Science Graduate (AI & ML) | Data Analytics | iOS Development
 - **Tech:** SwiftUI, Xcode, Firebase
 
 ### 🎵 Music Store SQL Analysis
-- Wrote optimized SQL queries
-- Extracted customer & sales insights
+- Extracted customer & sales insights using SQL
+- Optimized queries for performance
 - **Tech:** PostgreSQL, SQL, pgAdmin
 
 ---
 
-## 📊 GitHub Activity (Auto Light/Dark)
+## 🛠️ Tech Stack
 
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com?user=athulnediyedath&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=athulnediyedath&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://streak-stats.demolab.com?user=athulnediyedath&hide_border=true" />
-  </picture>
-</p>
+### 🤖 AI / Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)
+
+### 📱 Mobile & Backend
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0052CC?style=flat&logo=swift)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 
 ---
 
-## 🏆 GitHub Profile Highlights
+## 📌 What I Bring to the Table
 
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=athulnediyedath&theme=dark&no-frame=true&row=1&column=6"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-trophy.vercel.app/?username=athulnediyedath&no-frame=true&row=1&column=6"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-profile-trophy.vercel.app/?username=athulnediyedath&no-frame=true&row=1&column=6" />
-  </picture>
-</p>
+- ✅ Strong foundation in **Data Analytics & Machine Learning**
+- ✅ Experience working with **real-world datasets**
+- ✅ Ability to convert **data into actionable insights**
+- ✅ End-to-end project exposure (analysis → model → deployment)
+- ✅ Research experience through **published academic work**
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://athul04.netlify.app/" target="_blank">🌐 Portfolio</a><br>
-  <a href="https://www.linkedin.com/in/athul-nediyedath/" target="_blank">💼 LinkedIn</a><br>
-  <a href="mailto:athulnediyedath@gmail.com">✉️ Email</a>
-</p>
+- 🌐 Portfolio: https://athul04.netlify.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/athul-nediyedath/  
+- ✉️ Email: athulnediyedath@gmail.com  
 
 ---
 
@@ -109,3 +104,4 @@ Computer Science Graduate (AI & ML) | Data Analytics | iOS Development
 <p align="center">
   <i>“Learning by building. Growing by solving real problems.”</i>
 </p>
+
