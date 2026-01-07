@@ -1,47 +1,139 @@
 <h1 align="center">Hi 👋, I'm Athul Nediyedath</h1>
-<h3 align="center">I am an Computer Science Graduate with specialisation in Artificial Intelligence & Machine Learning from India</h3>
+<h3 align="center">
+Computer Science Graduate (AI & ML) • Data Analytics • iOS Development
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athulnediyedath&label=Profile%20views&color=0e75b6&style=flat" alt="athulnediyedath" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athulnediyedath" alt="athulnediyedath" /></a> </p>
-
-- 🌱 I’m currently learning **Python, SQL, Tableau, MS-Excel**
-
-- 👨‍💻 All of my projects are available at [https://athul04.netlify.app/](https://athul04.netlify.app/)
-
-- 📫 How to reach me **athulnediyedath@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HvlG4bSHzjCOT32C-SXRDnNn1-vlFPSO/view?usp=sharing](https://drive.google.com/file/d/1yUXFQJeFaIg8hWz1VB70gw1FdBGLfGkR/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://athul04.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://athul04.netlify.app/" height="30" width="40" /></a>
-<a href="https://twitter.com/athuls2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athuls2025" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/athul-nediyedath-746a78211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/athul-nediyedath-746a78211" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://athul04.netlify.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/athul-nediyedath-746a78211/" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:athulnediyedath@gmail.com">📧 Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=athulnediyedath&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athulnediyedath&show_icons=true&locale=en&layout=compact&theme=dark" alt="athulnediyedath" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athulnediyedath&show_icons=true&locale=en&theme=dark" alt="athulnediyedath" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athulnediyedath&" alt="athulnediyedath" /></p>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+- 🎓 Computer Science Graduate specialized in **Artificial Intelligence & Machine Learning**
+- 📊 Passionate about **Data Analytics, Visualization & Machine Learning**
+- 📱 Experience in **iOS Development (Swift & SwiftUI)**
+- 🧠 Built projects across **Healthcare, Retail & Analytics domains**
+- 🌱 Currently strengthening **Python, SQL, Tableau & Advanced Data Analysis**
+- 📄 Resume:  
+  **https://drive.google.com/file/d/1yUXFQJeFaIg8hWz1VB70gw1FdBGLfGkR/view**
 
+---
 
-<!--
-**athulnediyedath/athulnediyedath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI / ML & Data Badges
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Expertise-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-Tableau%20%7C%20SQL-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Data%20Science-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/iOS-SwiftUI-lightgrey?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⭐ Featured Projects
+
+### 📊 Data Analytics
+- 🏨 **Airbnb Data Analysis Dashboard**  
+  Tableau dashboard analyzing pricing, availability & demand  
+  🔗 *Tableau Project*
+
+- 🛒 **Big Mart Sales Prediction**  
+  End-to-end ML project: data cleaning → modeling → Flask deployment  
+  🔗 *Python • ML • Flask*
+
+- 🎵 **Music Store Analysis (SQL)**  
+  Business insights using PostgreSQL & advanced SQL queries  
+
+---
+
+### 🤖 Machine Learning
+- 🧠 **Healthcare AI Research Project**  
+  Published research paper with iOS-based healthcare application  
+  *(SwiftUI • Firebase • REST API)*
+
+- ☁ **WordCloud & Twitter Sentiment Analysis**  
+  NLP-based visualization using Python  
+
+---
+
+### 📱 iOS Development
+- 💊 **Medicine List iOS App**  
+  SwiftUI + Firebase + REST APIs  
+  *(Research-based healthcare app)*
+
+---
+
+## 📊 GitHub Activity (Auto Light/Dark)
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=athulnediyedath&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=athulnediyedath&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://streak-stats.demolab.com?user=athulnediyedath&hide_border=true" />
+  </picture>
+</p>
+
+---
+
+## 🏆 GitHub Profile Highlights
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=athulnediyedath&theme=dark&no-frame=true&row=1&column=6"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=athulnediyedath&no-frame=true&row=1&column=6"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=athulnediyedath&no-frame=true&row=1&column=6" />
+  </picture>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/athulnediyedath/athulnediyedath/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile!  
+I’m open to **Data Analyst / ML / iOS opportunities** ✨
+</p>
+
