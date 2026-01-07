@@ -74,17 +74,7 @@ Computer Science Graduate (AI & ML) • Data Analytics • iOS Development
 ## 📊 GitHub Activity (Auto Light/Dark)
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com?user=athulnediyedath&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=athulnediyedath&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://streak-stats.demolab.com?user=athulnediyedath&hide_border=true" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=athulnediyedath&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -92,17 +82,7 @@ Computer Science Graduate (AI & ML) • Data Analytics • iOS Development
 ## 🏆 GitHub Profile Highlights
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=athulnediyedath&theme=dark&no-frame=true&row=1&column=6"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-trophy.vercel.app/?username=athulnediyedath&no-frame=true&row=1&column=6"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-profile-trophy.vercel.app/?username=athulnediyedath&no-frame=true&row=1&column=6" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=athulnediyedath&theme=dark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
